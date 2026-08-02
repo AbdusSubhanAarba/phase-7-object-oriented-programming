@@ -72,7 +72,7 @@ phase-7-object-oriented-programming
 
 ## Next Phase
 
-Phase 8: Advanced JavaScript
+Phase 8: Version Control
 
 ---
 
